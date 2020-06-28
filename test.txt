@@ -1,3 +1,7 @@
 This is first test line ...
 some hot fix
+<<<<<<< HEAD
 some hot fix
+=======
+기능1 추가 
+>>>>>>> 9d7b6c9... "기능 1 추가"
